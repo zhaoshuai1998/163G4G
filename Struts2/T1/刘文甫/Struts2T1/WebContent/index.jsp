@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>首页</title>
 </head>
 <body>
 	<form action="hello" method="post">
@@ -13,5 +13,6 @@
 		<br />
 		<input type="submit" value="提交" />
 	</form>
+	
 </body>
 </html>
